@@ -12,5 +12,6 @@ public class HelloGit {
         happyArray.add("happy");
         happyArray.add("list");
         System.out.println(happyArray);
+        System.out.println(happyArray + "modified");
     }
 }
